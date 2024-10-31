@@ -1,6 +1,6 @@
 title: Kumaran .V
 logo: /assets/profile picture.png
 description: false
-show_downloads: true
-google_analytics:  
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-minimal
